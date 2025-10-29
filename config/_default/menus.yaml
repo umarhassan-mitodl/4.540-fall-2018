@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 70518e4f-ad3b-7538-d8a2-133895a7879f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 24cc6e0a-907f-6837-04a2-d0388448ef1a
+  name: Primary Course Texts
+  pageRef: /pages/course-texts
+  weight: 20
+- identifier: a5d7b3fd-9240-20b4-7ca3-6859ae384ff0
+  name: Lecture Slides and Supplemental Readings
+  pageRef: /pages/lecture-slides-and-supplemental-readings/
+  weight: 30
